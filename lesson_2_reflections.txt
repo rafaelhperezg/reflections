@@ -8,3 +8,7 @@ How is the staging area different from the working directory and the repository?
 R/the staging area is an intermediate place, like a neutral place but from were i can go a commit, i'm halfway from
 the commit. The value it offers is that i can choose wich file i want to make a commit on and i don't do the commit
 directly but i go to lika a working room with my file and then if i really decide to commit i can do it
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+R/i should add only one file to the staging area and make a commit as soon as i have a logical change
