@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+R/I create a new folder called .git That folder is empty at first because git doesn't create a first commitby itself
+instead i have tocreate the first commit. Anotherthng to remember, that folder is invisible to the user (because it
+has a dot at the beggining).
+I have to initialize a repositorybecause is there where all the history of my files will be stocked
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+R/the staging area is an intermediate place, like a neutral place but from were i can go a commit, i'm halfway from
+the commit. The value it offers is that i can choose wich file i want to make a commit on and i don't do the commit
+directly but i go to lika a working room with my file and then if i really decide to commit i can do it
