@@ -12,3 +12,8 @@ directly but i go to lika a working room with my file and then if i really decid
 
 How can you use the staging area to make sure you have one commit per logical change?
 R/i should add only one file to the staging area and make a commit as soon as i have a logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+R/situations like when i want to try a variant of the original project, to make it in another language or level, to 
+try an idea. Branches help in those cases because i can keepthe original project as it is, because i need it or i just
+want to keep it, so working on branches i can have many options and variants of my project
