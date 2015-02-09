@@ -25,3 +25,8 @@ What is the result of merging two branches together? Why do we represent it in t
 R/When we merge two branches together, the new branche will have the commits of both branches. The representation helps
 us to see the different commits of each brach, the point they separated,they point were they merged and we can also see
 if there are other branches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+R/Pros of automatic: i save time
+cons: if i always had automaticmergins i could have inconsistency or git can take wrong decision and erase code i wanted
+to keep or keep code i wanted to erase 
