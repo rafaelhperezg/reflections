@@ -17,3 +17,11 @@ What are some situations when branches would be helpful in keeping your history 
 R/situations like when i want to try a variant of the original project, to make it in another language or level, to 
 try an idea. Branches help in those cases because i can keepthe original project as it is, because i need it or i just
 want to keep it, so working on branches i can have many options and variants of my project
+
+How do the diagrams help you visualize the branch structure?
+R/with the diagrams i can see wich commits are reachable from each branch. who's the father of each commit
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+R/When we merge two branches together, the new branche will have the commits of both branches. The representation helps
+us to see the different commits of each brach, the point they separated,they point were they merged and we can also see
+if there are other branches
