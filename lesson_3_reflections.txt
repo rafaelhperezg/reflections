@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+I think i should always use the remote and the local repository, it will be safer, bacause if something happens
+to my device i can still find my files in the remoe repository. Another reason is that if i want to work with 
+other people with a remote repository we'll all hace access to the entiry history of the project we're working on
