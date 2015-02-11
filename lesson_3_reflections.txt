@@ -2,3 +2,9 @@ When would you want to use a remote repository rather than keeping all your work
 I think i should always use the remote and the local repository, it will be safer, bacause if something happens
 to my device i can still find my files in the remoe repository. Another reason is that if i want to work with 
 other people with a remote repository we'll all hace access to the entiry history of the project we're working on
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your
+ remote repository?
+I'm not sure of the reason,may be because manually i can choose the branch were i want to put it or because i need
+to continue making some modifications on my local repository as it was, so without the possible changes that have
+been made on the remote 
